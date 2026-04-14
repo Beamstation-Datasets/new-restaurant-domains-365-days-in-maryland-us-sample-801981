@@ -1,0 +1,22 @@
+{
+  "base_price": 2995,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The Startup List.\n\nBusinesses that registered their website domain < 365 Days ago. \n\nThey are in the \"Setup Phase\"\u2014need everything (Payroll, Insurance, SEO).",
+  "config_name": "New Restaurant Domains < 365 days in Maryland, US",
+  "export_job_id": "8e1a362f-527f-433c-b2f8-60a0a31ec94b",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 801981,
+  "location_name": "Maryland",
+  "location_type": "state",
+  "repo_name": "new-restaurant-domains-365-days-in-maryland-us-sample-801981",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/801981/beamstation_801981_restaurants-us-md_SAMPLE_DIST.csv",
+  "sample_pct": 9.87,
+  "sample_records": 53,
+  "sample_sha256": "c5e215ee612bc41f967cdab2b692953515c572cd1fb0cf1b8c9d1ca99f253b0b",
+  "sample_size_bytes": 204625,
+  "total_records": 537,
+  "updated_at": "2026-04-09T21:08:07.101126+00:00"
+}
